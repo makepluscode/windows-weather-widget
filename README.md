@@ -31,6 +31,11 @@ WEATHER_API_KEY=your_api_key_here
 
 ## 실행 방법
 
+### 개발 환결설치
+```bash
+install.bat
+```
+
 ### 개발 모드
 ```bash
 run.bat
