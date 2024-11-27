@@ -1,0 +1,9 @@
+{
+    "latitude": "37.5665",
+    "longitude": "126.9780",
+    "update_interval": 300000,
+    "last_position": {
+        "x": 190,
+        "y": 1011
+    }
+}
